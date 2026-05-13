@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Ismaeel Abuzahra 👋
 
 ### 🚀 Frontend Developer | Crafting Scalable E-commerce & Web Solutions
 
