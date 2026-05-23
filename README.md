@@ -1,6 +1,6 @@
 # Hi there, I'm Ismaeel Abuzahra 👋
 
-### 🚀 Frontend Developer | Crafting Scalable E-commerce & Web Solutions
+### 🚀 Frontend Developer | Crafting Scalable Web Applications & Web Solutions
 
 I'm a passionate **Frontend Developer** dedicated to building high-performance, user-centric web applications. My focus lies in bridging the gap between complex logic and seamless user experiences, particularly in the **E-commerce** and **Data-driven Dashboard** sectors.
 
